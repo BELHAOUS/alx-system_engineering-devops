@@ -1,1 +1,2 @@
-Shell redirection
+#!/bin/bash
+echo "Hello, World"
